@@ -1,3 +1,3 @@
 ator1 . 
-ator2 . 
+atorb . 
 ator3 . 
